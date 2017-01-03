@@ -1,1 +1,2 @@
-이거 왜 변경이 안되지?
+HI~
+My name is maru.
